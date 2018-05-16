@@ -18,10 +18,11 @@ var activities = [
   'Learn to make a dish Gordon Ramsey would aprove of',
   'Run around your house 3 times',
   'Do a mini workout',
-  'Make a awesome paper airplaine',
+  'Make some paper airplanes',
   'Draw Mike Wasouski',
   'Contemplate life',
   'Learn a piece for an instrument if you can play one',
+  'Play Sudoku',
 ]
 function AnothaOne() {
   var randomNumber = Math.floor(Math.random() * (activities.length));
